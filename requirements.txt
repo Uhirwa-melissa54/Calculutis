@@ -1,0 +1,4 @@
+build
+twine
+setuptools>=77
+pytest
